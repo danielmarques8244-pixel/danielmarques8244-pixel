@@ -1,154 +1,173 @@
-<div align="center">
+<div align="center">👋 Olá, eu sou Daniel
 
-# 👋 Olá, eu sou Daniel
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Python+Developer;Cybersecurity+Enthusiast;Networking+%26+Systems;Sempre+aprendendo+e+construindo" />🐍 Python • 🔐 Cybersecurity • 🌐 Networking • 🐧 Linux
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+constante+evolução;Criando+ideias+com+código;Explorando+tecnologia+e+segurança" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" /><br>"Transformando ideias em código." 🚀
 
-💻 Desenvolvedor em constante evolução 🚀
+</div>---
 
-*"Transformando ideias em código."*
+🧑‍💻 Sobre mim
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,docker,vscode,bash" />
+Olá! Eu sou Daniel, programador e entusiasta de tecnologia.
 
-</div>
+Gosto de aprender colocando a mão no código: criando projetos, analisando sistemas, experimentando com redes e estudando conceitos de cibersegurança em ambientes controlados.
 
----
+Meu principal foco atualmente é:
 
-## 🧑‍💻 Sobre mim
-
-Olá! Eu sou Daniel, um programador apaixonado por tecnologia e pelo universo da computação.
-
-Estou sempre aprendendo, criando projetos e explorando novas ferramentas para melhorar minhas habilidades.
-
-## 🎯 Meus principais interesses
-
-- 💻 Desenvolvimento de software
-- 🐍 Programação com Python
-- 🐧 Sistemas Linux
-- 🔐 Cibersegurança ética
-- ⚙️ Automação
+- 🐍 Python
+- 🔐 Cibersegurança
+- 🌐 Redes e protocolos
+- 🐧 Linux
+- ⚙️ Automação e sistemas
 - 🤖 Inteligência Artificial
-- 🌐 Desenvolvimento Web
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+🐍 Python
 
-<div align="center">
+<div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="110"></div>Python é minha principal linguagem.
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,docker,vscode,bash" />
+Tenho interesse em desenvolver:
 
-</div>
-
----
-
-## 🐍 Python
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
-
-</div>
-
-Estudo Python para desenvolver:
-
-- 🧩 Lógica de programação
+- 🧩 Aplicações e ferramentas
+- 🌐 Sockets e comunicação cliente/servidor
 - ⚙️ Automação
-- 🛠️ Ferramentas
-- 📚 Projetos próprios
+- 🧵 Threads e processos
+- 📁 Manipulação de arquivos
+- 🖥️ Interfaces gráficas
+- 🔎 Ferramentas para estudo e experimentação
 
 ---
 
-## 🔐 Cibersegurança Ética
+🔐 Cibersegurança
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,python,docker,github" />
-
-</div>
-
-Tenho interesse em segurança digital de forma ética e responsável.
+<div align="center"><img src="https://skillicons.dev/icons?i=linux,python,bash,github" /></div>Tenho interesse em cibersegurança ética, especialmente na compreensão de como sistemas e programas funcionam e de como podem ser protegidos.
 
 Áreas que estudo:
 
 - 🛡️ Fundamentos de segurança
-- 🔎 Análise de sistemas
+- 🔎 Análise de código
+- 🧪 Análise de malware em ambientes controlados
 - 🌐 Redes e protocolos
+- 🔐 Criptografia
 - 🐧 Segurança em Linux
-- ⚙️ Boas práticas de desenvolvimento
+- ⚙️ Processos e sistemas
+- 🧰 Segurança de aplicações
+
+«⚠️ Projetos e experimentos de segurança são realizados somente em ambientes próprios, controlados ou autorizados.»
 
 ---
 
-## 🧠 Minha jornada
+🌐 Networking
 
-🌱 Aprender novas tecnologias ↓ 💡 Criar novas ideias ↓ 🧪 Testar e melhorar ↓ 🚀 Construir projetos ↓ 🏆 Evoluir como desenvolvedor
+                    NETWORKING
+                        │
+          ┌─────────────┴─────────────┐
+          ▼                           ▼
+       TCP/IP                      SOCKETS
+          │                           │
+     ┌────┼────┐                      │
+     ▼    ▼    ▼                      ▼
+    IP   TCP  PORTS             CLIENT ↔ SERVER
+                                      │
+                                      ▼
+                                  PROTOCOLS
 
----
+Estudo e exploro conceitos como:
 
-## 📚 Atualmente estudando
-
-- 🔹 Programação
-- 🔹 Estrutura de projetos
-- 🔹 Desenvolvimento de aplicações
-- 🔹 Git e GitHub
-- 🔹 Linux e Terminal
-- 🔹 Segurança digital
-- 🔹 Novas tecnologias
-
----
-
-## ⚡ Meu ambiente
-
-🖥️ Ferramentas que utilizo:
-
-- 🐧 Linux
-- ⌨️ Terminal
-- 🐙 Git & GitHub
-- 🐳 Docker
-- 💻 Editores de código
-- ⚙️ Ferramentas de desenvolvimento
+"TCP/IP" · "IP" · "TCP" · "Portas" · "Sockets" · "Cliente/Servidor" · "Protocolos"
 
 ---
 
-## 🚀 Objetivos
+🚀 Projetos
 
-- 🚀 Criar projetos cada vez maiores
-- 📖 Aprender novas linguagens e tecnologias
-- 🧩 Resolver problemas usando programação
-- 🌎 Compartilhar conhecimento através do código
-- 🏆 Evoluir constantemente como desenvolvedor
+🧠 DreamOS
 
----
+Um projeto para registrar e armazenar sonhos, analisá-los com IA e permitir uma experiência visual personalizada através de imagens e diferentes temas.
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=danielmarques8244-pixel&show_icons=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmarques8244-pixel&layout=compact&theme=tokyonight" />
-
-</div>
+«🚧 Em desenvolvimento»
 
 ---
 
-## 🌐 Conecte-se comigo
+🧮 Python Calculator
 
-<div align="center">
+Uma calculadora gráfica desenvolvida em Python + CustomTkinter.
 
-🐙 GitHub: https://github.com/danielmarques8244-pixel
-
-</div>
+Projeto criado para praticar programação, lógica e desenvolvimento de interfaces.
 
 ---
 
-<div align="center">
+🔬 Security Lab
 
-⭐ Obrigado por visitar meu perfil!
+Projetos experimentais voltados ao estudo de:
 
-💻 Codificando ideias.  
-🚀 Construindo o futuro.
+Python
+   ↓
+Networking
+   ↓
+Sockets
+   ↓
+Protocols
+   ↓
+Cybersecurity
+
+Sempre utilizando ambientes controlados e autorizados.
+
+---
+
+🧠 Como eu aprendo
+
+🌱 Aprender
+     ↓
+💡 Criar
+     ↓
+🧪 Testar
+     ↓
+🔎 Analisar
+     ↓
+🛠️ Corrigir
+     ↓
+🚀 Evoluir
+
+Gosto de entender não apenas como algo funciona, mas também por que funciona.
+
+---
+
+📚 Atualmente estudando
+
+🐍 Python
+██████████████████░░
+
+🔐 Cybersecurity
+██████████████░░░░░░
+
+🌐 Networking
+███████████████░░░░░
+
+🔌 Sockets & Protocols
+████████████░░░░░░░░
+
+🐧 Linux
+████████████░░░░░░░░
+
+🤖 Artificial Intelligence
+██████████░░░░░░░░░░
+
+---
+
+⚡ Ambiente
+
+<div align="center"><img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" /></div>---
+
+<div align="center">🫵 Keep learning. Keep building.
+
+"Aprender como um sistema funciona é o primeiro passo para entender como protegê-lo."
+
+<br>> build()
+> analyze()
+> experiment()
+> learn()
+
+[ SYSTEM ONLINE ]
 
 </div>
