@@ -1,33 +1,29 @@
 <div align="center">👋 Olá, eu sou Daniel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Python+Developer;Cybersecurity+Enthusiast;Networking+%26+Systems;Sempre+aprendendo+e+construindo" />🐍 Python • 🔐 Cybersecurity • 🌐 Networking • 🐧 Linux
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=00FF88&center=true&vCenter=true&width=900&lines=🐍+Python+Developer;🔐+Cybersecurity+Enthusiast;🌐+Networking+%26+Systems;🧠+Always+Learning;🚀+Always+Building" /><br><img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=120&section=header&text=PYTHON%20%7C%20CYBERSECURITY%20%7C%20NETWORKING&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=35" width="100%"/><img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" /><br>"Transformando ideias em código." 🚀
-
-</div>---
+<img src="https://komarev.com/ghpvc/?username=danielmarques8244-pixel&label=Profile%20Views&color=00ff88&style=for-the-badge" /></div>---
 
 🧑‍💻 Sobre mim
 
 Olá! Eu sou Daniel, programador e entusiasta de tecnologia.
 
-Gosto de aprender colocando a mão no código: criando projetos, analisando sistemas, experimentando com redes e estudando conceitos de cibersegurança em ambientes controlados.
+Gosto de aprender colocando a mão no código: criando projetos, analisando sistemas, experimentando com redes e estudando cibersegurança em ambientes controlados.
 
-Meu principal foco atualmente é:
+🎯 Meu foco
 
-- 🐍 Python
-- 🔐 Cibersegurança
-- 🌐 Redes e protocolos
-- 🐧 Linux
-- ⚙️ Automação e sistemas
-- 🤖 Inteligência Artificial
+<div align="center">🐍 Python
+🔐 Cybersecurity
+🌐 Networking
+🐧 Linux
+⚙️ Automation
+🤖 Artificial Intelligence
 
----
+</div>---
 
 🐍 Python
 
-<div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="110"></div>Python é minha principal linguagem.
-
-Tenho interesse em desenvolver:
+<div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="110"><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=3776AB&center=true&vCenter=true&width=600&lines=Building+with+Python;Sockets+%7C+Threads+%7C+Processes;Automation+%7C+Tools+%7C+Applications" /></div>Tenho interesse em desenvolver:
 
 - 🧩 Aplicações e ferramentas
 - 🌐 Sockets e comunicação cliente/servidor
@@ -41,9 +37,15 @@ Tenho interesse em desenvolver:
 
 🔐 Cibersegurança
 
-<div align="center"><img src="https://skillicons.dev/icons?i=linux,python,bash,github" /></div>Tenho interesse em cibersegurança ética, especialmente na compreensão de como sistemas e programas funcionam e de como podem ser protegidos.
+<div align="center"><img src="https://skillicons.dev/icons?i=linux,python,bash,github" /><br><br>
 
-Áreas que estudo:
+╔══════════════════════════════════════╗
+║         🔐 SECURITY LAB              ║
+║                                      ║
+║   ANALYZE → TEST → LEARN → SECURE   ║
+╚══════════════════════════════════════╝
+
+</div>Áreas que estudo:
 
 - 🛡️ Fundamentos de segurança
 - 🔎 Análise de código
@@ -60,7 +62,7 @@ Tenho interesse em desenvolver:
 
 🌐 Networking
 
-                    NETWORKING
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=TCP%2FIP+%E2%86%92+SOCKETS+%E2%86%92+PROTOCOLS;CLIENT+%E2%86%94+SERVER;NETWORKING+%E2%86%92+SECURITY" />                    🌐 NETWORK
                         │
           ┌─────────────┴─────────────┐
           ▼                           ▼
@@ -73,17 +75,15 @@ Tenho interesse em desenvolver:
                                       ▼
                                   PROTOCOLS
 
-Estudo e exploro conceitos como:
-
 "TCP/IP" · "IP" · "TCP" · "Portas" · "Sockets" · "Cliente/Servidor" · "Protocolos"
 
----
+</div>---
 
 🚀 Projetos
 
 🧠 DreamOS
 
-Um projeto para registrar e armazenar sonhos, analisá-los com IA e permitir uma experiência visual personalizada através de imagens e diferentes temas.
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=700&color=00FF88&center=true&vCenter=true&width=500&lines=DREAM+JOURNAL;AI+DREAM+ANALYSIS;IMAGES+%2B+CUSTOM+THEMES" /></div>Projeto para registrar e armazenar sonhos, analisá-los com IA e permitir uma experiência visual personalizada através de imagens e diferentes temas.
 
 «🚧 Em desenvolvimento»
 
@@ -91,9 +91,15 @@ Um projeto para registrar e armazenar sonhos, analisá-los com IA e permitir uma
 
 🧮 Python Calculator
 
-Uma calculadora gráfica desenvolvida em Python + CustomTkinter.
+Calculadora gráfica desenvolvida em Python + CustomTkinter.
 
-Projeto criado para praticar programação, lógica e desenvolvimento de interfaces.
+Python
+   ↓
+CustomTkinter
+   ↓
+GUI
+   ↓
+Calculator
 
 ---
 
@@ -101,73 +107,53 @@ Projeto criado para praticar programação, lógica e desenvolvimento de interfa
 
 Projetos experimentais voltados ao estudo de:
 
-Python
+🐍 Python
    ↓
-Networking
+🌐 Networking
    ↓
-Sockets
+🔌 Sockets
    ↓
-Protocols
+📡 Protocols
    ↓
-Cybersecurity
-
-Sempre utilizando ambientes controlados e autorizados.
+🔐 Cybersecurity
 
 ---
 
-🧠 Como eu aprendo
+🧠 Minha jornada
 
-🌱 Aprender
-     ↓
-💡 Criar
-     ↓
-🧪 Testar
-     ↓
-🔎 Analisar
-     ↓
-🛠️ Corrigir
-     ↓
-🚀 Evoluir
-
-Gosto de entender não apenas como algo funciona, mas também por que funciona.
-
----
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=🌱+LEARN;💡+CREATE;🧪+TEST;🔎+ANALYZE;🛠️+IMPROVE;🚀+EVOLVE" /></div>---
 
 📚 Atualmente estudando
 
-🐍 Python
-██████████████████░░
+<div align="center">Área| Status
+🐍 Python| ██████████████████░░
+🔐 Cybersecurity| ██████████████░░░░░░
+🌐 Networking| ███████████████░░░░░
+🔌 Sockets & Protocols| ████████████░░░░░░░░
+🐧 Linux| ████████████░░░░░░░░
+🤖 AI| ██████████░░░░░░░░░░
 
-🔐 Cybersecurity
-██████████████░░░░░░
+</div>---
 
-🌐 Networking
-███████████████░░░░░
+🐍 GitHub Activity
 
-🔌 Sockets & Protocols
-████████████░░░░░░░░
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielmarques8244-pixel&show_icons=true&theme=chartreuse-dark&hide_border=true" /><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielmarques8244-pixel&theme=dark&hide_border=true" /></div>---
 
-🐧 Linux
-████████████░░░░░░░░
+🐍 Contribution Snake
 
-🤖 Artificial Intelligence
-██████████░░░░░░░░░░
+<div align="center"><img src="https://raw.githubusercontent.com/danielmarques8244-pixel/danielmarques8244-pixel/output/github-contribution-grid-snake.svg" /></div>---
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer&animation=fadeIn" width="100%"/>🫵 Keep learning. Keep building.
 
-⚡ Ambiente
+«"Aprender como um sistema funciona é o primeiro passo para entender como protegê-lo."»
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" /></div>---
-
-<div align="center">🫵 Keep learning. Keep building.
-
-"Aprender como um sistema funciona é o primeiro passo para entender como protegê-lo."
-
-<br>> build()
+> build()
 > analyze()
 > experiment()
 > learn()
 
 [ SYSTEM ONLINE ]
+
+Entre em contato aqui👉 danielmarques8244@gmail.com
 
 </div>
